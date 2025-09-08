@@ -7,9 +7,10 @@
 ### 수상
 인하공업전문대학 제 2회 해커톤 대상
 
+<br><br>
 ### 개발 환경
-FrontEnd : React Native
-BackEnd : Python FastAPI
-AI : AI hub 데이터셋, Google Colab Pro + MoblieNetV3, TensorFlowLite
-DataBase : Firebase
-Server : ngrok, uvicon
+FrontEnd : React Native <br>
+BackEnd : Python FastAPI <br>
+AI : AI hub 데이터셋, Google Colab Pro + MoblieNetV3, TensorFlowLite <br>
+DataBase : Firebase <br>
+Server : ngrok, uvicon <br>
